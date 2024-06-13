@@ -1,0 +1,10 @@
+{
+  "name": "otp-builder",
+  "version": "1.0.0",
+  "description": "A simple and secure One-Time Password (OTP) generator and verifier for Node.js applications.",
+  "main": "index.js",
+  "keywords": ["otp","otp-generator","otp-builder","otp-verifier","custom-otp","otp-gen"],
+  "git repository":"https://github.com/mubashirnanath/otp-builder",
+  "author": "Muhammed Mubashir N",
+  "license": "ISC"
+}
