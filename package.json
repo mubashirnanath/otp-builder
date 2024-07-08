@@ -1,6 +1,6 @@
 {
   "name": "otp-builder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple and secure One-Time Password (OTP) generator and verifier for Node.js applications.",
   "main": "index.js",
   "keywords": ["otp","otp-generator","otp-builder","otp-verifier","custom-otp","otp-gen"],

@@ -48,7 +48,6 @@ async function verifyOtp({ identifier, otp, secret }) {
   return false;
 }
 
-
 module.exports = {
   generateOtp,
   verifyOtp,
